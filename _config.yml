@@ -1,0 +1,14 @@
+layout_spectrum: 0.13228035671636462
+typography_spectrum: 0.15996348694898188
+color:
+  brandStrength: 0.07708246982656419
+  lightness: 0.6547653584275395
+  saturation: 0.24733291449956596
+  rhythmicContrast: 0.5348453016486019
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: evoMetrics
